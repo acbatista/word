@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  brasileira: MyString
+  inglesa: MyString
+  data: 2013-08-21 18:46:29
+
+two:
+  brasileira: MyString
+  inglesa: MyString
+  data: 2013-08-21 18:46:29
